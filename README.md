@@ -9,8 +9,8 @@ bla bla
 
 ## Source genome metadata
 Here are the genome assemblies from which HPHGs were extracted. For each of them, the species ID and the link to the source website are provided. The same information, but parsable, can be found in the <code>genome_table.tsv</code> file.
-*Drosophila melanogaster* (Dmel, [GCF_000001215.4](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001215.4/))
 
+  - *Drosophila melanogaster* (Dmel, [GCF_000001215.4](https://www.ncbi.nlm.nih.gov/assembly/GCF_000001215.4/))
   - *Folsomia candida* (Fcan, [GCF_002217175.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_002217175.1))
   - *Artemia franciscana* (Afr1, [Korea Polar Research Institute](https://antagen.kopri.re.kr/project/genome_info_iframe.php?Code=AF01))
   - *Daphnia magna*	(Dmag, [GCF_003990815.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_003990815.1/))
