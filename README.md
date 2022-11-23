@@ -4,8 +4,24 @@ Here you can find fasta and gff files of branchiopod Hox and ParaHox genes (HPHG
 - <code>01_HPHG_seqs/nucleotide_seqs/</code> hosts fasta files of nucleotide sequences;
 - <code>02_HPHG_gffs/</code> hosts gff files.
 
+Supplementary data and materials can be found in [this GitHub repository](https://github.com/filonico/branchiopoda_Hox_ParaHox).
+
 ## Format and codes
-bla bla
+Headers for each fasta file contained in this repository are formatted as follow: <code>>spID_geneID</code>. **spIDs** can be found in the next section or in the <code>genome_table.tsv</code> file. **geneIDs** are as follow:
+  - *labial*: lab
+  - *proboscipedia*: pb
+  - *Hox-3*: hox3
+  - *deformed*: dfd
+  - *sex-comb reduced*: scr
+  - *fushi tarazu*: ftz
+  - *antennapedia*: antp
+  - *ultrabithorax*: ubx
+  - *abdominal-A*: abdA
+  - *abdominal-B*: abdB
+  - *caudal*: cad
+  - *intermediate neuroblasts defective*: ind
+  - *pancreatic-duodenal homeobox*: Pdx
+  - *even-skipped*: eve
 
 ## Source genome metadata
 Here are the genome assemblies from which HPHGs were extracted. For each of them, the species ID and the link to the source website are provided. The same information, but parsable, can be found in the <code>genome_table.tsv</code> file.
